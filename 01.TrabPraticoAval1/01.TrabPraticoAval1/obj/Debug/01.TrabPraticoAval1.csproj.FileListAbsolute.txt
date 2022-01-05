@@ -1,0 +1,13 @@
+C:\Users\15613374\Desktop\01.TrabPraticoAval1\01.TrabPraticoAval1\bin\Debug\01.TrabPraticoAval1.exe.config
+C:\Users\15613374\Desktop\01.TrabPraticoAval1\01.TrabPraticoAval1\bin\Debug\01.TrabPraticoAval1.exe
+C:\Users\15613374\Desktop\01.TrabPraticoAval1\01.TrabPraticoAval1\bin\Debug\01.TrabPraticoAval1.pdb
+C:\Users\15613374\Desktop\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.csprojResolveAssemblyReference.cache
+C:\Users\15613374\Desktop\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.exe
+C:\Users\15613374\Desktop\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.pdb
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\bin\Debug\01.TrabPraticoAval1.exe.config
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\bin\Debug\01.TrabPraticoAval1.exe
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\bin\Debug\01.TrabPraticoAval1.pdb
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.csprojAssemblyReference.cache
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.csproj.CoreCompileInputs.cache
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.exe
+D:\T.P\11 ANO\01.TrabPraticoAval1\01.TrabPraticoAval1\obj\Debug\01.TrabPraticoAval1.pdb
